@@ -3,7 +3,7 @@ Flight Price Analysis &amp; Visualization using Tableau
 
 Performed indepth analysis & data Visualization on indian flight prices using Tableau.
 
-From this analysis following results & insights are get.
+From this analysis we get following insights & results.
 
 1.cheapest price of each airline for each journey : from this passenger can select a flight which has least price for a respective journey.
 
